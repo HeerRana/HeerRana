@@ -225,7 +225,7 @@ A developer-focused platform for secure code sharing, code formatting, and AI-as
 
 **Tech Stack:** Next.js · TypeScript · MongoDB · Google Generative AI · Tailwind CSS
 
-🔗 [Live Demo](ADD_SNIPPY_LIVE_URL) | [Source Code](ADD_SNIPPY_GITHUB_REPOSITORY_URL)
+🔗 [Live Demo](https://snippet-master-sepia.vercel.app/) | [Source Code](https://github.com/HeerRana/Snippet_Master)
 
 ### 2. TeamSync — Real-Time Team Collaboration Platform
 
@@ -238,7 +238,7 @@ A full-stack project management application designed to help teams manage worksp
 
 **Tech Stack:** React.js · Node.js · Express.js · MongoDB · TypeScript · Socket.IO
 
-🔗 [Live Demo](https://team-sync-nu-rust.vercel.app) | [Source Code](ADD_TEAMSYNC_GITHUB_REPOSITORY_URL)
+🔗 [Live Demo](https://team-sync-nu-rust.vercel.app) | [Source Code](https://github.com/HeerRana/TeamSync)
 
 ### 3. IMDb Sentiment Analysis — Deep Learning NLP
 
@@ -251,7 +251,7 @@ A deep learning project that classifies movie reviews using a Bidirectional LSTM
 
 **Tech Stack:** Python · TensorFlow · Keras · BiLSTM · Natural Language Processing
 
-🔗 [Live Demo](ADD_IMDB_LIVE_DEMO_URL) | [Source Code](ADD_IMDB_GITHUB_REPOSITORY_URL)
+🔗[Source Code](https://github.com/HeerRana/SentimentAnalysis-ADeepLearningProject)
 
 ---
 
@@ -268,7 +268,7 @@ A deep learning project that classifies movie reviews using a Bidirectional LSTM
 - Achieved 84% peak accuracy and a Macro F1 score of 0.73 with ResNet50 in the reported experiments.
 
 **Research Areas:** Python · Deep Learning · Computer Vision · Image Processing · TensorFlow · Model Evaluation
-
+🔗[Source Code](https://github.com/HeerRana/SkinLessionClassification)
 ---
 
 ## 📜 Certifications
