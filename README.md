@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Heer Rana 👋</h1>
 
 <h3 align="center">
-  💻 Full-Stack Developer | AI/ML Enthusiast | Generative AI Integration
+  💻 Full-Stack Developer | AI/ML Enthusiast
 </h3>
 
 <p align="center">
